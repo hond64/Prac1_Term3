@@ -1,0 +1,16 @@
+Algorithm 1:
+4 and -4 are in the array
+5 and -5 are in the array
+8 and -8 are in the array
+Number of pairs: 3
+
+Algorithm 2:
+8 and -8 are in the array
+5 and -5 are in the array
+4 and -4 are in the array
+Number of pairs: 3
+
+Algorithm 1 Runtime in nano seconds: 18060240
+Algorithm 2 Runtime in nano seconds: 1527631
+Algorithm 1 Runtime in seconds: 0.01806024
+Algorithm 2 Runtime in seconds: 0.001527631
